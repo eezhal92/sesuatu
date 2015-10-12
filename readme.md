@@ -2,4 +2,4 @@
 
 Ini adalah repo untuk belajar bersama.
 
-Good Luck!
+Good Luck for All of You!
