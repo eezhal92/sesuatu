@@ -2,6 +2,14 @@
 
 Ini adalah repo untuk belajar bersama.
 
+## Pull Request
+
+Agar tidak menimbulkan masalah, silahkan ikuti beberapa point berikut:
+
+* Jelaskan tentang Pull Request dengan jelas pada deskripsi.
+* Kirim Pull Request ke branch `develop`.
+
+
 ## Resources:
 
 * [https://guides.github.com/introduction/flow/](https://guides.github.com/introduction/flow/)
